@@ -1,0 +1,21 @@
+f = "*************"
+nombre = input("Dame tu nombre: ")
+a = float(input("Dame un numero:"))
+b = float(input("Dame otro numero: "))
+print(nombre, " La suma de tus numeros es: ", a + b)
+print(nombre, " La resta de tus numeros es: ", a - b)
+print(nombre, " La multiplicacion de tus numeros es: ", a * b)
+print(nombre, " La division entre de tus numeros es: ", a / b)
+print("hola " + (nombre + f) * 5)
+print(type(nombre))
+h = "123.00"
+print(h)
+print("La variable h es de tipo: ", type(h))
+h = float(h)
+print(h)
+print("La variable h es de tipo: ", type(h))
+h = int(h)
+print(h)
+print("La variable h es de tipo: ", type(h))
+for x in range(0,5):
+    print(x)

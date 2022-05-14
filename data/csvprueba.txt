@@ -1,0 +1,5 @@
+hola,este, es un archivo, seprado
+por comas, lo cual, es dificil
+de hacer, en excel, si no lo hacemos, de esta manera
+ya que, funciona
+de esta, manera
